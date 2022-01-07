@@ -1,0 +1,29 @@
+h1{
+    color:red;
+    font-size: 200px;
+}
+/*img{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+}*/
+
+.beef{
+    background-color: brown;
+}
+    
+.rice{
+    background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: blue;
+}
+
+img:hover{
+    background-color: gold;
+}
